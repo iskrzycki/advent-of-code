@@ -1,4 +1,4 @@
-# Advent of COde
+# Advent of Code
 
 This repository is a set of my solutions for the [Advent of Code](https://adventofcode.com/) challenge.
 Created mainly with Node.js.
